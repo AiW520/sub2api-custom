@@ -146,3 +146,7 @@ output/
 
 # Vitest / Vite cache at repo root
 .vite/
+
+# Local media work unrelated to the application
+/video_audio_work/
+/video_review_frames/
